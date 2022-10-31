@@ -1,6 +1,6 @@
 # JamuJamu
 
-[Onlyn build it on ipad]. If you’re using iPad Mini, It is recommended to run the app vertically on your iPad so that all the image assets are visible. The text should be visible on any model. It would also work just fine horizontally or vertically on other models. Lastly, make sure the iOS has been updated to iOS 15.0. Enjoy! :D
+[Only build it on ipad]. If you’re using iPad Mini, It is recommended to run the app vertically on your iPad so that all the image assets are visible. The text should be visible on any model. It would also work just fine horizontally or vertically on other models. Lastly, make sure the iOS has been updated to iOS 15.0. Enjoy! :D
 
 
 Additional Information :
